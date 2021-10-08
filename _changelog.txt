@@ -1,0 +1,5 @@
+================
+Wed 16 Dec 2020
+================
+
+-	Create a function that takes as input a 2D array A and a cell C in this array, and returns the value or "state" of all cells adjacent to C in A, where "adjacent" means within one unit on each axis.
